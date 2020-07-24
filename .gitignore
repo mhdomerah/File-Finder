@@ -1,0 +1,6 @@
+.git
+*.spec
+__pycache__
+build
+dist
+baseCode
