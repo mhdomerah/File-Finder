@@ -1,4 +1,4 @@
-# Find-Finder
+# Files-Finder
 <br>
 
 ![picture](https://i.imgur.com/eJM0Fn6.png)
