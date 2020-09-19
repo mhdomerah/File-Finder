@@ -24,6 +24,6 @@ Instruction :
 <br>
 
 # To craete installer
-1. Install pyinstaller packge [pip install pyinstaller]
-2. navigate to [.py] file location 
-3. pyinstaller --onefile --windowed [filename.py]
+1. Install pyinstaller packge 'pip install pyinstaller'
+2. navigate to '.py' file location 
+3. 'pyinstaller --onefile --windowed filename.py'
