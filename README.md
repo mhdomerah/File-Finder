@@ -23,7 +23,7 @@ Instruction :
 # Note
 <br>
 
-# To craete installer
+## To craete installer
 1. Install [Python](https://www.python.org/ftp/python/3.8.5/python-3.8.5.exe) 
 2. From CMD Install pyinstaller packge `pip install pyinstaller`
 3. navigate to `.py` file location 
